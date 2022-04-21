@@ -1,5 +1,5 @@
 # calculadora
-Creiei uma calculadora simples usando: 
+Criei uma calculadora simples usando: 
 * JavaScript
 * HTML
 * css 
